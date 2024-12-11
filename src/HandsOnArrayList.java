@@ -5,11 +5,11 @@ public class HandsOnArrayList {
     private ArrayList<String> students = new ArrayList<String>();
 
     public void addStudents() {
-        students.add("Alice");
-        students.add("Bob");
-        students.add("Charlie");
-        students.add("Diana");
-        students.add("Edward");
+        students.add("Xenophon");
+        students.add("Andronike");
+        students.add("Nephele");
+        students.add("Nicodemos");
+        students.add("Noa");
         System.out.println("\nStudents added to the list.");
     }
     public void printStudents() {

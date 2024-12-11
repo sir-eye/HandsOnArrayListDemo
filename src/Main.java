@@ -7,7 +7,7 @@ public class Main {
 
         handsOnArrayList.printStudents();
 
-        handsOnArrayList.removeStudent("Charlie");
+        handsOnArrayList.removeStudent("Noa");
 
         handsOnArrayList.printStudents();
 
